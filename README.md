@@ -2,5 +2,5 @@
 This repository contains a layered architecture drivers of STM32 (ARM Cortex M3) 
 
 ## 01-LIB:
-<p>__01-STD_TYPES.h__This header file contains user defined types that will be used in all drivers.<br>
+<p><strong>01-STD_TYPES.h =></strong> This header file contains user defined types that will be used in all drivers.<br>
 02-**BIT_MATH.h**This header file contains some bit manipulations that will be used in all drivers.</p>
