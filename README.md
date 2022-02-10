@@ -6,4 +6,4 @@ This repository contains a layered architecture drivers of STM32 (ARM Cortex M3)
 <em><strong>02-BIT_MATH.h =></strong></em>This header file contains some bit manipulations that will be used in all drivers.</p>
 
 ## 02-MCAL:
-<p>### 01-RCC:</p>
+### 01-RCC:
