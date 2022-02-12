@@ -20,7 +20,8 @@ This repository contains a layered architecture drivers of STM32 (ARM Cortex M3)
 <em><strong>05-AFIO (Alternative Function Input Output) =></strong></em> Controls pins' alternative function configuration.<br>
 <em><strong>06-STK (SysTick Timer) =></strong></em> 24-bit Count down timer.<br>
 <em><strong>07-SPI (Serial Peripheral Interface) =></strong></em> Communication Protocol.<br>
-<em><strong>08-UART (Universal Asynchronous Receiver Transmitter) =></strong></em> Communication Protocol.</p>
+<em><strong>08-UART (Universal Asynchronous Receiver Transmitter) =></strong></em> Communication Protocol.<br>
+<em><strong>09-FPEC (Flash Program/Erase Controller) =></strong></em> Flash Driver.</p>
 
 ## 03-HAL:
 <p><em><strong>01-SEVSEG (Seven Segement) =></strong></em> Seven Segement display interface.<br>
