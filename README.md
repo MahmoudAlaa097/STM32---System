@@ -1,6 +1,7 @@
 # STM32-System
 This repository contains a layered architecture drivers of STM32 (ARM Cortex M3) 
-
+<p> This repository contains only LIB, MCAL and HAL drivers.<p>
+  
 ## Note:
 <p>Every MCAL & HAL driver has 4 files (1 source file and 3 header files)<br>
 <em><strong>XYZ_program.c =></strong></em> This source file contains functions implementations.<br>
